@@ -1,6 +1,6 @@
 ---
-title: REQUIREMENT
-description:  Template of the requirement
+name: REQUIREMENT
+about:  Template of the requirement
 author: juhan.zhang@hannto.com
 categories: ISSUE
 ---
