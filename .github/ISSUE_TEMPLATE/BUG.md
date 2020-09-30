@@ -1,6 +1,6 @@
 ---
-title: BUG
-description:  Template of the Bug
+name: BUG
+about:  Template of the Bug
 author: juhan.zhang@hannto.com
 categories: ISSUE
 ---
